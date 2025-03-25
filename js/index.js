@@ -13,9 +13,9 @@
 
   // Images to cycle through
   const pageImages = [
-    '1IMG_20200821_222649_571.jpg',
-    '1IMG_20201115_003638_383.jpg',
-    '1IMG-20210821-WA0017.jpg'
+    'https://github.com/ramansuman/PapaHappyBirthday/blob/main/1IMG_20200821_222649_571.jpg',
+    'https://github.com/ramansuman/PapaHappyBirthday/blob/main/1IMG_20201115_003638_383.jpg',
+    'https://github.com/ramansuman/PapaHappyBirthday/blob/main/1IMG-20210821-WA0017.jpg'
   ];
 
   // Initially activate the first page
