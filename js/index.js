@@ -13,9 +13,9 @@
 
   // Images to cycle through
   const pageImages = [
-    'https://drive.google.com/file/d/1KCiN1MgZ4j-b5yvujSHkwZQqq5RfhCCy/view?usp=sharing',
-    'https://drive.google.com/file/d/1CryF0jqSxFFxFNPhO6KAcCbI0dDuym6H/view?usp=sharing',
-    'https://drive.google.com/file/d/1tkRs-7KSEhmAZRQWBMDZ4mXerUw2Gldh/view?usp=sharing
+    '1IMG_20200821_222649_571.jpg',
+    '1IMG_20201115_003638_383.jpg',
+    '1IMG-20210821-WA0017.jpg'
   ];
 
   // Initially activate the first page
